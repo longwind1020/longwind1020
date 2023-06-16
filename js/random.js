@@ -1,0 +1,1 @@
+var posts=["2023/06/13/hello-world/","2023/06/13/“第一遍文章”/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
